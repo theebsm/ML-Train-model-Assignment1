@@ -1,0 +1,6 @@
+fastai
+torch
+torchvision
+streamlit
+pillow
+python-multipart
