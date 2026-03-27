@@ -3,6 +3,7 @@ fastcore==1.5.29
 fastdownload==0.0.7
 fastprogress==1.0.3
 fasttransform
+cloudpickle
 pydantic==1.10.7
 torch==2.0.1
 torchvision==0.15.2
